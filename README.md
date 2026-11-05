@@ -80,11 +80,11 @@
 
 ### 📊 Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbel-ymam&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Statistiques de Mohamed" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbel-ymam&layout=compact&theme=onedark&hide_border=true" alt="Langages les plus utilisés" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohamedbel-ymam&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Statistiques de Mohamed" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohamedbel-ymam&layout=compact&theme=onedark&hide_border=true" alt="Langages les plus utilisés" width="45%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbel-ymam&theme=onedark&hide_border=true" alt="Série de contributions" />
+  <img src="https://streak-stats.demolab.com/?user=mohamedbel-ymam&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
